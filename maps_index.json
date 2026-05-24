@@ -1,0 +1,454 @@
+{
+  "maps": [
+    {
+      "name": "Aichelberg",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 325,
+      "elevation_max": 825,
+      "url": "maps_json/Aichelberg.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Aichelberg.fp10"
+    },
+    {
+      "name": "Aiterhofen",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 300,
+      "elevation_max": 400,
+      "url": "maps_json/Aiterhofen.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Aiterhofen.fp10"
+    },
+    {
+      "name": "Amberg",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 375,
+      "elevation_max": 575,
+      "url": "maps_json/Amberg.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Amberg.fp10"
+    },
+    {
+      "name": "Arracourt",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 200,
+      "elevation_max": 350,
+      "url": "maps_json/Arracourt.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Arracourt.fp10"
+    },
+    {
+      "name": "Bad Duerrheim",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 625,
+      "elevation_max": 925,
+      "url": "maps_json/Bad Duerrheim.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Bad Duerrheim.fp10"
+    },
+    {
+      "name": "Bad Windsheim",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 300,
+      "elevation_max": 500,
+      "url": "maps_json/Bad Windsheim.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Bad Windsheim.fp10"
+    },
+    {
+      "name": "Bamberg",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 225,
+      "elevation_max": 625,
+      "url": "maps_json/Bamberg.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Bamberg.fp10"
+    },
+    {
+      "name": "Coburg",
+      "cols": 81,
+      "rows": 40,
+      "cells": 3240,
+      "elevation_min": 275,
+      "elevation_max": 725,
+      "url": "maps_json/Coburg.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Coburg.fp10"
+    },
+    {
+      "name": "Colmar",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 225,
+      "elevation_max": 725,
+      "url": "maps_json/Colmar.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Colmar.fp10"
+    },
+    {
+      "name": "Ebelsbach",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 200,
+      "elevation_max": 500,
+      "url": "maps_json/Ebelsbach.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Ebelsbach.fp10"
+    },
+    {
+      "name": "Epinal",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 300,
+      "elevation_max": 750,
+      "url": "maps_json/Epinal.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Epinal.fp10"
+    },
+    {
+      "name": "Erbendorf",
+      "cols": 81,
+      "rows": 40,
+      "cells": 3240,
+      "elevation_min": 400,
+      "elevation_max": 850,
+      "url": "maps_json/Erbendorf.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Erbendorf.fp10"
+    },
+    {
+      "name": "Forchheim",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 250,
+      "elevation_max": 550,
+      "url": "maps_json/Forchheim.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Forchheim.fp10"
+    },
+    {
+      "name": "Freiburg",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 250,
+      "elevation_max": 850,
+      "url": "maps_json/Freiburg.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Freiburg.fp10"
+    },
+    {
+      "name": "Germersheim",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 75,
+      "elevation_max": 175,
+      "url": "maps_json/Germersheim.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Germersheim.fp10"
+    },
+    {
+      "name": "Goeppingen",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 250,
+      "elevation_max": 600,
+      "url": "maps_json/Goeppingen.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Goeppingen.fp10"
+    },
+    {
+      "name": "Grafenwoehr",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 400,
+      "elevation_max": 650,
+      "url": "maps_json/Grafenwoehr.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Grafenwoehr.fp10"
+    },
+    {
+      "name": "Heilbronn",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 150,
+      "elevation_max": 500,
+      "url": "maps_json/Heilbronn.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Heilbronn.fp10"
+    },
+    {
+      "name": "Kemnath",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 425,
+      "elevation_max": 925,
+      "url": "maps_json/Kemnath.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Kemnath.fp10"
+    },
+    {
+      "name": "Kinding",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 375,
+      "elevation_max": 575,
+      "url": "maps_json/Kinding.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Kinding.fp10"
+    },
+    {
+      "name": "Kirchheim u Teck",
+      "cols": 70,
+      "rows": 40,
+      "cells": 2800,
+      "elevation_min": 250,
+      "elevation_max": 800,
+      "url": "maps_json/Kirchheim u Teck.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Kirchheim u Teck.fp10"
+    },
+    {
+      "name": "Koenigsfeld",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 375,
+      "elevation_max": 575,
+      "url": "maps_json/Koenigsfeld.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Koenigsfeld.fp10"
+    },
+    {
+      "name": "Kronach",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 275,
+      "elevation_max": 725,
+      "url": "maps_json/Kronach.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Kronach.fp10"
+    },
+    {
+      "name": "Kulmbach",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 275,
+      "elevation_max": 575,
+      "url": "maps_json/Kulmbach.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Kulmbach.fp10"
+    },
+    {
+      "name": "Landau ad Isar",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 300,
+      "elevation_max": 450,
+      "url": "maps_json/Landau ad Isar.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Landau ad Isar.fp10"
+    },
+    {
+      "name": "Langquaid",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 350,
+      "elevation_max": 500,
+      "url": "maps_json/Langquaid.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Langquaid.fp10"
+    },
+    {
+      "name": "Lechfeld",
+      "cols": 81,
+      "rows": 48,
+      "cells": 3888,
+      "elevation_min": 475,
+      "elevation_max": 675,
+      "url": "maps_json/Lechfeld.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Lechfeld.fp10"
+    },
+    {
+      "name": "Leupoldsgruen",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 475,
+      "elevation_max": 675,
+      "url": "maps_json/Leupoldsgruen.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Leupoldsgruen.fp10"
+    },
+    {
+      "name": "Lichtenfels",
+      "cols": 81,
+      "rows": 40,
+      "cells": 3240,
+      "elevation_min": 250,
+      "elevation_max": 550,
+      "url": "maps_json/Lichtenfels.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Lichtenfels.fp10"
+    },
+    {
+      "name": "Marktredwitz",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 500,
+      "elevation_max": 700,
+      "url": "maps_json/Marktredwitz.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Marktredwitz.fp10"
+    },
+    {
+      "name": "Nagold",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 325,
+      "elevation_max": 625,
+      "url": "maps_json/Nagold.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Nagold.fp10"
+    },
+    {
+      "name": "Neuffen",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 325,
+      "elevation_max": 825,
+      "url": "maps_json/Neuffen.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Neuffen.fp10"
+    },
+    {
+      "name": "Pegnitz",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 425,
+      "elevation_max": 625,
+      "url": "maps_json/Pegnitz.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Pegnitz.fp10"
+    },
+    {
+      "name": "Pfoerring",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 350,
+      "elevation_max": 500,
+      "url": "maps_json/Pfoerring.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Pfoerring.fp10"
+    },
+    {
+      "name": "Phalsbourg",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 175,
+      "elevation_max": 425,
+      "url": "maps_json/Phalsbourg.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Phalsbourg.fp10"
+    },
+    {
+      "name": "Rastatt",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 100,
+      "elevation_max": 600,
+      "url": "maps_json/Rastatt.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Rastatt.fp10"
+    },
+    {
+      "name": "Rottenburg",
+      "cols": 81,
+      "rows": 40,
+      "cells": 3240,
+      "elevation_min": 325,
+      "elevation_max": 875,
+      "url": "maps_json/Rottenburg.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Rottenburg.fp10"
+    },
+    {
+      "name": "Rottweil",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 500,
+      "elevation_max": 1000,
+      "url": "maps_json/Rottweil.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Rottweil.fp10"
+    },
+    {
+      "name": "Sarrebourg",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 250,
+      "elevation_max": 450,
+      "url": "maps_json/Sarrebourg.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Sarrebourg.fp10"
+    },
+    {
+      "name": "Schesslitz",
+      "cols": 81,
+      "rows": 40,
+      "cells": 3240,
+      "elevation_min": 225,
+      "elevation_max": 625,
+      "url": "maps_json/Schesslitz.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Schesslitz.fp10"
+    },
+    {
+      "name": "Tuebingen",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 325,
+      "elevation_max": 625,
+      "url": "maps_json/Tuebingen.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Tuebingen.fp10"
+    },
+    {
+      "name": "Wendlingen",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 250,
+      "elevation_max": 500,
+      "url": "maps_json/Wendlingen.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Wendlingen.fp10"
+    },
+    {
+      "name": "Westhausen",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 425,
+      "elevation_max": 725,
+      "url": "maps_json/Westhausen.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Westhausen.fp10"
+    },
+    {
+      "name": "Wildberg",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 425,
+      "elevation_max": 675,
+      "url": "maps_json/Wildberg.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Wildberg.fp10"
+    },
+    {
+      "name": "Windischeschenbach",
+      "cols": 46,
+      "rows": 30,
+      "cells": 1380,
+      "elevation_min": 425,
+      "elevation_max": 675,
+      "url": "maps_json/Windischeschenbach.json",
+      "source": "N:\\SteamLibrary\\steamapps\\common\\Flashpoint Campaigns Southern Storm\\Modules\\FCSS\\Maps\\Windischeschenbach.fp10"
+    }
+  ]
+}
